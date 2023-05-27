@@ -32,13 +32,13 @@ function Navbar() {
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" href="/About">
-                  About
+                <Link class="nav-link active" href="/Blog">
+                  Blog
                 </Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-link active" href="/Blog">
-                  Blog
+                <Link class="nav-link active" href="/About">
+                  About
                 </Link>
               </li>
               <li class="nav-item">

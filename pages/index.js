@@ -1,3 +1,9 @@
+import MainHome from "./MainHome";
+
 export default function Home() {
-  return <></>;
+  return (
+    <>
+      <MainHome />
+    </>
+  );
 }

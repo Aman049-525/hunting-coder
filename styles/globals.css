@@ -118,3 +118,7 @@ a {
 .middle {
   vertical-align: middle;
 }
+.width {
+  width: 800px;
+  margin: 24px auto;
+}
